@@ -1,0 +1,92 @@
+.color-nav{
+    background-color:#FE5F5A;
+    color:white;
+    padding:30px 40px 20px 40px;
+}
+.logo{
+    width: 50%;
+    height: 50%;
+}
+#nav-links{
+    margin-left:-20px;
+    font-size: 15px;
+    font-weight:700;
+    color:white
+}
+
+.button {
+  border: none;
+  border-radius: 7px;
+  color: white;
+  padding: 12px 16px;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Qanelas Extra Bold", sans-serif;
+  font-size: 15px;
+  font-weight:700;
+  margin: 4px 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color:#FE5F5A; 
+  color: white; 
+  border: 1px solid #ffffff;
+}
+
+.button1:hover {
+  background-color:white;
+  color:#FE5F5A;
+  border: 1px solid #ffffff;
+}
+
+.button2 {
+  background-color: #002566; 
+  color: white; 
+  border: 2px solid #002579;
+}
+
+.button2:hover {
+  background-color: #002579;
+  color: white;
+  border: 2px solid #002579;
+}
+
+#basic-nav-dropdown{
+  color:white;
+}
+/* #basic-nav-dropdown:before,
+#basic-nav-dropdown:after{
+  content:"";
+  position: absolute;
+  border:10px solid transparent;
+  border-top:0;
+  left:10px;
+  top:10px;
+} */
+#basic-nav-dropdown:before {
+  top:-8px;
+  border-bottom-color:#fff;
+}
+#basic-nav-dropdown:after{
+  top:-10px;
+  border-bottom-color:#ff2474;
+  z-index:-1;
+  }
+#basic-nav-dropdown:hover {
+  color:#002579;
+}
+#basic-nav-dropdown-link {
+  font-family: "Qanelas Extra Bold", sans-serif;
+  font-size: 14px;
+  font-weight:700;
+  color:#FE5F5A;
+  padding:0px;
+}
+#basic-nav-dropdown-link:hover {;
+  color:#002579;
+  background-color:transparent;
+}

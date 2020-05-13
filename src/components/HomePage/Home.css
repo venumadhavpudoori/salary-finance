@@ -1,0 +1,135 @@
+.banner{
+    background-color:#FE5F5A;
+    text-align:center;
+    height:35em;
+}
+
+.heading{
+    font-size:58px;
+    font-family:"Qanelas Extra Bold", sans-serif;
+    font-weight:700;
+    color:#ffffff;
+}
+.heading1{
+    color:#002579;
+}
+.heading2{
+    margin-top:-20px;
+}
+.para{
+    margin:auto;
+    font-size:20px;
+    font-family:"Qanelas Extra Bold", sans-serif;
+    color:#ffffff;
+    text-align:center;
+    width:620px;
+}
+.financework-container{
+    background-color:#002579;
+    text-align:center;
+}
+.financeWork{
+    font-family:"Qanelas Extra Bold", sans-serif;
+    font-weight:700;
+    color:#ffffff;
+    font-size:42px;
+}
+.head2{
+    margin-top:-18px;
+    color:#fe5f5a;
+}
+.para1{
+    margin:auto;
+    font-size:17px;
+    font-family:"Qanelas Extra Bold", sans-serif;
+    color:#ffffff;
+    text-align:center;
+    width:480px; 
+}
+#fin-intro{
+    margin-top:100px;
+}
+
+#financeWorkListColumn{
+    display:flex;
+    flex-direction:column;
+    border:1px solid #001850;
+    border-width:thin;
+    border-right-style: none;
+    padding:60px;
+}
+.financeWorkList{
+    font-size:28px;
+    font-family:"Qanelas Extra Bold", sans-serif;
+    font-weight:700;
+    color:#fe5f5a;
+    align-self: center;
+}
+#financeWorkListColumn div{
+    align-self: center;
+}
+.employeeBenifits-intro1{
+    background-color:#EEE8E8;
+    padding:50px 30px;
+}
+.employeeBenifits-intro2{
+    background-color:#ffffff;
+    padding:50px 30px;
+}
+.employeeBenifits-intro3{
+    background-color:#EEE8E8;
+    padding:50px 30px;
+}
+#employeeBenefitsList{
+    padding:150px 50px;
+    text-align:center;
+}
+#employeeBenefitsList div{
+    color:#fe5f5a;
+    font-family:"Qanelas Extra Bold", sans-serif;
+    font-size:42px;
+    font-weight:700;
+    line-height: normal;
+    text-align:center;
+}
+#employeeBenefitsList p{
+    color:#464646;
+    font-family:"Qanelas Extra Bold", sans-serif;
+    font-size:18px;
+    font-weight:500;
+    line-height: 28px;
+    width:350px;
+    margin:auto;
+}
+#employeeBenefitsList Button{
+  border:1px solid #002579;
+  background-color:transparent;
+  border-radius: 7px;
+  color: #002579;
+  padding: 16px 16px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Qanelas Extra Bold", sans-serif;
+  font-size: 18px;
+  font-weight:700;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#employeeBenefitsList Button:hover {
+  background-color:#002579;
+  color:#EEE8E8;
+}
+#industries-container{
+  margin:100px 50px;  
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Qanelas Extra Bold", sans-serif;
+  font-size: 28px;
+  font-weight:700;
+  
+}
+#industries-container img{
+    width:150px;
+    height:80px;
+    text-align: center;
+}

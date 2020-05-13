@@ -1,0 +1,49 @@
+.footer{
+   background-color:#002579;
+    clear:both
+}
+.contact{
+   font-family:"Qanelas Soft", sans-serif;
+   font-size:14px;
+   color:#667caf;    
+}
+.contact a{
+   font-family:"Qanelas Soft", sans-serif;
+   font-size:14px;
+   color:#ffffff;    
+}
+.contact a:hover{
+   font-family:"Qanelas Soft", sans-serif;
+   font-size:14px;
+   color:#a9bce8;    
+}
+#social-icons{
+   font-size:26px;
+   color:#667CAF;
+   border-radius:10px;
+   margin-right:25px;
+}
+#social-icons:hover{
+   color:#ffffff;
+}
+.footer-links a{
+   font-family:"Qanelas Soft", sans-serif;
+   font-size:16px;
+   font-weight:600;
+   color:#667CAF; 
+   padding:0 25px;
+   text-decoration:none;
+}
+.footer-links a:hover{
+   color:#ffffff;   
+}
+.footer-bottom p{
+   font-family:"Qanelas Soft", sans-serif;
+   font-size:14px;
+   color:#667CAF; 
+}
+.footer-bottom img{
+   width:90px;
+   height:60px;
+   margin-right:25px;
+}
