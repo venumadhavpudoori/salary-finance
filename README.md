@@ -1,1 +1,2 @@
 # salary-finance
+#npm start
